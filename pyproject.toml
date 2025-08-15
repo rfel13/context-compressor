@@ -4,16 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "context-compressor"
-version = "1.0.1"
+version = "1.0.2"
 description = "AI-powered text compression for RAG systems and API calls to reduce token usage and costs"
 readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    {name = "Mohammed Huzaifa", email = "huzaifa@contextcompressor.dev"}
+    {name = "Mohammed Huzaifa", email = "immdhuzaifa@gmail.com"}
 ]
 maintainers = [
-    {name = "Mohammed Huzaifa", email = "huzaifa@contextcompressor.dev"}
+    {name = "Mohammed Huzaifa", email = "immdhuzaifa@gmail.com"}
 ]
 keywords = [
     "ai",

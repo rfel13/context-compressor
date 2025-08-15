@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "ai-context-compressor"
+name = "context-compressor"
 version = "1.0.1"
 description = "AI-powered text compression for RAG systems and API calls to reduce token usage and costs"
 readme = "README.md"

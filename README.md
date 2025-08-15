@@ -43,7 +43,7 @@
 ### Full Installation (Recommended)
 
 ```bash
-pip install ai-context-compressor
+pip install context-compressor
 ```
 
 *This now includes ALL features by default: ML models, API service, integrations, and NLP processing.*

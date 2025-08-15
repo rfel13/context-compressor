@@ -117,5 +117,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Processing speed: 1-4ms per text compression
 - Batch success rate: 100% on valid inputs
 
-[Unreleased]: https://github.com/yourusername/ai-context-compressor/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yourusername/ai-context-compressor/releases/tag/v0.1.0
+[Unreleased]: https://github.com/yourusername/context-compressor/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/yourusername/context-compressor/releases/tag/v0.1.0

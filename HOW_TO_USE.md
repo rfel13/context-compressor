@@ -25,7 +25,7 @@
 
 ### 1. Install the Package
 ```bash
-pip install ai-context-compressor
+pip install context-compressor
 ```
 
 ### 2. Basic Compression
@@ -59,7 +59,7 @@ print(f"Tokens saved: {result.tokens_saved}")
 ### Full Installation (Recommended)
 ```bash
 # All features included by default
-pip install ai-context-compressor
+pip install context-compressor
 ```
 
 ### Verify Installation
@@ -796,7 +796,7 @@ try:
     print("✓ Package imported successfully")
 except ImportError as e:
     print(f"✗ Import error: {e}")
-    print("Solution: pip install ai-context-compressor")
+    print("Solution: pip install context-compressor")
 ```
 
 #### 2. Strategy Not Found

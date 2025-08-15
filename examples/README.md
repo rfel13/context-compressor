@@ -110,7 +110,7 @@ python examples/api_client.py
 
 ### 1. Basic Installation
 ```bash
-pip install ai-context-compressor
+pip install context-compressor
 ```
 
 ### 2. With Optional Dependencies

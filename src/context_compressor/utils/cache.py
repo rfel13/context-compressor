@@ -262,12 +262,22 @@ class CacheManager:
         for key in sample_keys:
             entry = self._cache[key]
             # Rough estimation of object size
-            estimated_size = (
-                len(key) +
-                len(entry.result.original_text) +
-                len(entry.result.compressed_text) +
-                500  # Overhead for other fields
-            )
+            result = entry.result
+            if hasattr(result, 'original_text') and hasattr(result, 'compressed_text'):
+                # CompressionResult object
+                estimated_size = (
+                    len(key) +
+                    len(result.original_text) +
+                    len(result.compressed_text) +
+                    500  # Overhead for other fields
+                )
+            else:
+                # Simple object (string, etc.)
+                estimated_size = (
+                    len(key) +
+                    len(str(result)) +
+                    100  # Basic overhead
+                )
             total_estimated += estimated_size
         
         avg_size = total_estimated / len(sample_keys)

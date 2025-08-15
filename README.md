@@ -43,7 +43,7 @@
 ### Full Installation (Recommended)
 
 ```bash
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 *This now includes ALL features by default: ML models, API service, integrations, and NLP processing.*
@@ -65,7 +65,7 @@ pip install "context-compressor[docs]"        # Documentation generation
 ### Development Installation
 
 ```bash
-git clone https://github.com/MohammedHuzaifa785/context-compressor.git
+git clone https://github.com/Huzaifa785/context-compressor.git
 cd context-compressor
 pip install -e ".[dev]"
 ```
@@ -419,7 +419,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ### Development Setup
 
 ```bash
-git clone https://github.com/MohammedHuzaifa785/context-compressor.git
+git clone https://github.com/Huzaifa785/context-compressor.git
 cd context-compressor
 pip install -e ".[dev]"
 pre-commit install
@@ -442,8 +442,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: [https://context-compressor.readthedocs.io](https://context-compressor.readthedocs.io)
-- **Issues**: [GitHub Issues](https://github.com/MohammedHuzaifa785/context-compressor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/MohammedHuzaifa785/context-compressor/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Huzaifa785/context-compressor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Huzaifa785/context-compressor/discussions)
 - **PyPI Package**: [https://pypi.org/project/context-compressor/](https://pypi.org/project/context-compressor/)
 
 ## 🗺️ Roadmap
@@ -463,7 +463,7 @@ If you use Context Compressor in your research, please cite:
 @software{context_compressor,
   title={Context Compressor: AI-Powered Text Compression for RAG Systems},
   author={Mohammed Huzaifa},
-  url={https://github.com/MohammedHuzaifa785/context-compressor},
+  url={https://github.com/Huzaifa785/context-compressor},
   year={2024},
   version={1.0.0}
 }

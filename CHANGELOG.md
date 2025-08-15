@@ -63,7 +63,7 @@ pandas>=1.5.0, tqdm>=4.64.0, joblib>=1.2.0
 **Mohammed Huzaifa** - Creator and Lead Developer
 
 #### 🔗 Links
-- **GitHub**: https://github.com/MohammedHuzaifa785/context-compressor
+- **GitHub**: https://github.com/Huzaifa785/context-compressor
 - **PyPI**: https://pypi.org/project/context-compressor/
 
 ---

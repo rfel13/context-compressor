@@ -110,7 +110,7 @@ python examples/api_client.py
 
 ### 1. Basic Installation
 ```bash
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 ### 2. With Optional Dependencies
@@ -330,8 +330,8 @@ if __name__ == "__main__":
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/MohammedHuzaifa785/context-compressor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/MohammedHuzaifa785/context-compressor/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Huzaifa785/context-compressor/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Huzaifa785/context-compressor/discussions)
 - **PyPI**: [context-compressor](https://pypi.org/project/context-compressor/)
 
 ## 📄 License

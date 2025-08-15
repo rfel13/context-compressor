@@ -3,8 +3,8 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "context-compressor"
-version = "1.0.0"
+name = "ai-context-compressor"
+version = "1.0.1"
 description = "AI-powered text compression for RAG systems and API calls to reduce token usage and costs"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -133,11 +133,11 @@ full = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/MohammedHuzaifa785/context-compressor"
-Documentation = "https://github.com/MohammedHuzaifa785/context-compressor#readme"
-Repository = "https://github.com/MohammedHuzaifa785/context-compressor.git"
-"Bug Tracker" = "https://github.com/MohammedHuzaifa785/context-compressor/issues"
-Changelog = "https://github.com/MohammedHuzaifa785/context-compressor/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Huzaifa785/context-compressor"
+Documentation = "https://github.com/Huzaifa785/context-compressor#readme"
+Repository = "https://github.com/Huzaifa785/context-compressor.git"
+"Bug Tracker" = "https://github.com/Huzaifa785/context-compressor/issues"
+Changelog = "https://github.com/Huzaifa785/context-compressor/blob/main/CHANGELOG.md"
 
 [project.scripts]
 context-compressor = "context_compressor.cli:main"

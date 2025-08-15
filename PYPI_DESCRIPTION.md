@@ -28,7 +28,7 @@
 ## 📦 Installation
 
 ```bash
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 *All features included by default - ML models, API service, integrations, and NLP processing.*
@@ -119,7 +119,7 @@ curl -X POST "http://localhost:8000/compress" \
 
 ## 📚 Documentation & Support
 
-- **GitHub**: [https://github.com/MohammedHuzaifa785/context-compressor](https://github.com/MohammedHuzaifa785/context-compressor)
+- **GitHub**: [https://github.com/Huzaifa785/context-compressor](https://github.com/Huzaifa785/context-compressor)
 - **Documentation**: Comprehensive guides and API reference
 - **Examples**: Production-ready code samples
 - **Community**: Active GitHub discussions and issue tracking
@@ -129,7 +129,7 @@ curl -X POST "http://localhost:8000/compress" \
 Transform your AI applications with intelligent text compression. Save costs, improve performance, and maintain quality with Context Compressor.
 
 ```bash
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 *Made with ❤️ by Mohammed Huzaifa for the AI community*

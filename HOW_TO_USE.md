@@ -25,7 +25,7 @@
 
 ### 1. Install the Package
 ```bash
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 ### 2. Basic Compression
@@ -59,7 +59,7 @@ print(f"Tokens saved: {result.tokens_saved}")
 ### Full Installation (Recommended)
 ```bash
 # All features included by default
-pip install context-compressor
+pip install ai-context-compressor
 ```
 
 ### Verify Installation
@@ -76,7 +76,7 @@ print("✓ Installation successful!")
 
 ### Development Installation
 ```bash
-git clone https://github.com/MohammedHuzaifa785/context-compressor.git
+git clone https://github.com/Huzaifa785/context-compressor.git
 cd context-compressor
 pip install -e ".[dev]"
 ```
@@ -796,7 +796,7 @@ try:
     print("✓ Package imported successfully")
 except ImportError as e:
     print(f"✗ Import error: {e}")
-    print("Solution: pip install context-compressor")
+    print("Solution: pip install ai-context-compressor")
 ```
 
 #### 2. Strategy Not Found
@@ -971,8 +971,8 @@ health_check()
 - Implement error handling for production use
 
 ### Getting Help
-- **GitHub Issues**: [Report bugs and request features](https://github.com/MohammedHuzaifa785/context-compressor/issues)
-- **Documentation**: [Complete API reference](https://github.com/MohammedHuzaifa785/context-compressor#readme)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/Huzaifa785/context-compressor/issues)
+- **Documentation**: [Complete API reference](https://github.com/Huzaifa785/context-compressor#readme)
 - **Examples**: Check the `examples/` directory for more code samples
 
 ---

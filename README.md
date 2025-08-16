@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PyPI Version](https://img.shields.io/pypi/v/context-compressor.svg)](https://pypi.org/project/context-compressor/)
-[![Downloads](https://img.shields.io/pypi/dm/context-compressor.svg)](https://pypi.org/project/context-compressor/)
+[![PyPI Downloads](https://static.pepy.tech/badge/context-compressor)](https://pepy.tech/projects/context-compressor)
 
 **The most powerful AI-powered text compression library for RAG systems and API calls. Reduce token usage by up to 80% while preserving semantic meaning with state-of-the-art compression strategies.**
 
